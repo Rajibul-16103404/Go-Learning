@@ -22,6 +22,6 @@ func main() {
 
 	add(a, p)
 
-	add(b, z)
+	// add(b, z)
 
 }
