@@ -1,4 +1,4 @@
-package if_else
+package main
 
 import "fmt"
 

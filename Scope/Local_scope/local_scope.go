@@ -1,4 +1,4 @@
-package Local_scope
+package main
 
 import "fmt"
 

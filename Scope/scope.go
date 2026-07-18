@@ -1,4 +1,4 @@
-package Scope
+package main
 
 import "fmt"
 

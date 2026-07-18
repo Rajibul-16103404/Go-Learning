@@ -1,4 +1,4 @@
-package Return_Function
+package main
 
 import "fmt"
 
