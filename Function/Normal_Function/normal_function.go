@@ -1,4 +1,4 @@
-package main
+package Normal_Function
 
 import "fmt"
 

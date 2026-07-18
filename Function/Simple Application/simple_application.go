@@ -1,4 +1,4 @@
-package main
+package Simple_Application
 
 import "fmt"
 

@@ -1,4 +1,4 @@
-package main
+package Local_scope
 
 import "fmt"
 
@@ -15,4 +15,5 @@ func main() {
 		fmt.Println("I am Mature boy")
 		fmt.Println("I have ", p, "girlfriends!")
 	}
+
 }
